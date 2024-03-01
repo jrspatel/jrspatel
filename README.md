@@ -1,8 +1,6 @@
-### Hi there 👋, Rahul here.
-#### ML, AI, Data Science
-![ML, AI, Data Science]
+![](https://raw.githubusercontent.com/jrspatel/jrspatel/main/github-header-image.png)
 
-Aspiring data scientist dedicated to leveraging data-driven solutions to enhance society and simplify human life.
+I am Rahul an engineer dedicated to leveraging data-driven solutions to enhance society and simplify human life.
 
 Skills: Python, SQL, ML, DL, NLP, Mlflow, Tensorflow, GCP, AWS
 
@@ -16,6 +14,4 @@ Skills: Python, SQL, ML, DL, NLP, Mlflow, Tensorflow, GCP, AWS
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jrspatel)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jrspatel&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/jrspatel)  
 

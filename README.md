@@ -1,6 +1,6 @@
 ### Hi there 👋, Rahul here.
 #### ML, AI, Data Science
-![ML, AI, Data Science](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![ML, AI, Data Science]
 
 Aspiring data scientist dedicated to leveraging data-driven solutions to enhance society and simplify human life.
 

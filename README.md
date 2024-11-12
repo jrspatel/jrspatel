@@ -12,7 +12,7 @@ An engineer dedicated to leveraging data-driven solutions to enhance society and
 
 ## 🚀 About Me
 
-Hello! I'm a graduate student with over a year of hands-on experience developing scalable, innovative software solutions. My background spans multiple industries, where I have honed skills in **Python, JavaScript, and Java** and contributed to projects with a measurable, positive impact.
+Hello! I'm a graduate student with over a year of hands-on experience developing scalable, innovative software solutions. My background spans multiple industries, where I have honed skills in **Python, ML, and NLP** and contributed to projects with a measurable, positive impact.
 
 I'm passionate about tackling real-world challenges with data-driven solutions, constantly expanding my knowledge and toolkit to stay at the cutting edge. I enjoy working collaboratively to bring forward-thinking digital solutions to life and am always eager to connect with like-minded professionals.
 
@@ -66,12 +66,4 @@ I'm passionate about tackling real-world challenges with data-driven solutions, 
 
 ---
 
-## 📂 Experience Highlights & Key Projects
 
-###
-
----
-
-## 📂 Experience Highlights & Key Projects
-
-### [🏆 Project Title 1](

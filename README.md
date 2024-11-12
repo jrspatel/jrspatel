@@ -38,9 +38,7 @@ I'm passionate about tackling real-world challenges with data-driven solutions, 
 **Arthashastra Intelligence**  
 **Hyderabad, India** | Jan 2022 - Jun 2022
 **Key Achievements & Responsibilities:**
-- Built and optimized [describe project, e.g., "an API used to enhance customer data retrieval efficiency"], reducing latency by [specific improvement].
-- Implemented [technologies or frameworks, e.g., "React and Node.js"] to develop a user-friendly web application, improving client engagement by X%.
-- Assisted in the deployment of cloud infrastructure on AWS, ensuring a secure and reliable application environment.
+
 
 ---
 

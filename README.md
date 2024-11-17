@@ -38,7 +38,7 @@ I'm passionate about tackling real-world challenges with data-driven solutions, 
 **Arthashastra Intelligence**  
 **Hyderabad, India** | Jan 2022 - Jun 2022
 **Key Achievements & Responsibilities:**
-
+- Applied automation, data visualization, and NLP to streamline processes, boost revenue, and achieve significant social and operational improvements.
 
 ---
 

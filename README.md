@@ -31,12 +31,14 @@ I'm passionate about tackling real-world challenges with data-driven solutions, 
 ### Data Scientist Intern
 **Staples Inc.**  
 **Boston, U.S.A.** | Jan 2024 - Jun 2024
+
 **Key Achievements & Responsibilities:**
 - As a Data Scientist on the "Robotics & Automation" team, I leveraged advanced data analytics and machine learning to optimize robotic picking processes, 
 
 ### Data Analyst Intern 
 **Arthashastra Intelligence**  
 **Hyderabad, India** | Jan 2022 - Jun 2022
+
 **Key Achievements & Responsibilities:**
 - Applied automation, data visualization, and NLP to streamline processes, boost revenue, and achieve significant social and operational improvements.
 

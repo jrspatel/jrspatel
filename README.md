@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/jrspatel/jrspatel/main/github-header-image.png)
-
 # ***Hi! 👋 I'm R.J.***  
 An engineer dedicated to leveraging data-driven solutions to enhance society and simplify human life.
 

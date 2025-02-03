@@ -45,25 +45,27 @@ I'm passionate about tackling real-world challenges with data-driven solutions, 
 ## 🛠️ Technical Skills & Proficiencies
 
 **Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
 **Frameworks**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
 
 **ML Ops & Data Tools**  
 ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  
-![TensorFlow Data Validation (TFDV)](https://img.shields.io/badge/TFDV-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![TensorFlow Data Validation (TFDV)](https://img.shields.io/badge/TFDV-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![TensorFlow Extended (TFX)](https://img.shields.io/badge/TFX-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=data-version-control&logoColor=white)  
-![ClearML](https://img.shields.io/badge/ClearML-0D5AFF?style=flat&logo=clearml&logoColor=white)
 
 **Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)  
 
----
-
-
+**Tools**  
+![LangChain](https://img.shields.io/badge/LangChain-00A6C0?style=flat&logo=python&logoColor=white)  
+![CrewAI](https://img.shields.io/badge/CrewAI-FF8C00?style=flat&logo=python&logoColor=white)

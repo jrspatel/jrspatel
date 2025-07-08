@@ -1,71 +1,77 @@
-# ***Hi! 👋 I'm R.J.***  
-An engineer dedicated to leveraging data-driven solutions to enhance society and simplify human life.
-
-### Passionate | Innovative | Results-Driven
+# ✨ Hi, I’m **Rahul Sai Jangili (R.J.)**  
+An engineer turning **data & AI** into practical solutions that improve everyday life.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/rahul-j-84404b199/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:jangili.r@northeastern.edu)
+
 
 ---
 
 ## 🚀 About Me
-
-Hello! I'm a graduate student with over a year of hands-on experience developing scalable, innovative software solutions. My background spans multiple industries, where I have honed skills in **Python, ML, and NLP** and contributed to projects with a measurable, positive impact.
-
-I'm passionate about tackling real-world challenges with data-driven solutions, constantly expanding my knowledge and toolkit to stay at the cutting edge. I enjoy working collaboratively to bring forward-thinking digital solutions to life and am always eager to connect with like-minded professionals.
+I’m a Northeastern University grad (M.S. Data Analytics Engineering, Dec 2024) who loves solving real-world problems with **Python, ML, NLP, and solid MLOps** practices.  
+My recent work ranges from optimizing robotic pick systems at Staples to building an onboarding chatbot that slashes HR ticket volume. Always learning, always shipping.
 
 ---
 
-### 📈 Summary of My Work
-
-- 🔭 **Current Projects:** Currently working on projects involving **Retrieval-Augmented Generation (RAG)**, developing interactive agents, and optimizing RAG pipelines. I focus on leveraging large datasets, deploying them at scale, and ensuring robust, real-world applications.
-- 🌱 **Learning:** Continuously advancing my skills in **Natural Language Processing (NLP)**, including deep learning frameworks and modern cloud computing and orchestration techniques.
-- 🤝 **Collaborations:** Open to collaborating on projects in **NLP**, particularly **AI-driven applications** and **open-source tools** for impactful, widespread use.
-- 💡 **Let's Connect:** Always eager to share insights, discuss industry trends, and brainstorm solutions to unique and complex challenges.
+## 🔍 What I’m Up To
+| Area | Current Focus |
+| --- | --- |
+| **RAG & Agents** | Scaling retrieval-augmented generation pipelines and multi-agent orchestration (LangGraph + CrewAI). |
+| **NLP** | Deep-diving into transformer fine-tuning and evaluation for domain-specific chatbots. |
+| **Cloud MLOps** | Containerised CI/CD (Docker, K8s) with MLflow + DVC for full-repro pipelines. |
+| **Collaboration** | Open to teaming up on impactful AI/NLP open-source projects. |
 
 ---
+
 ## 🧑‍💼 Experience
+### Data Analyst & Automation Lead — **Bright Minds Enrichment** (Mar 2025 – Present)  
+* Automated attendance & payroll with Google Sheets + VLOOKUP, saving ~15 admin hours/month.  
+* Built an ARIMA-based staffing forecaster and a transformer-powered “New Recruit” FAQ bot that boosted top-match accuracy to **85 %**. :contentReference[oaicite:5]{index=5}  
 
-### Data Scientist Intern
-**Staples Inc.**  
-**Boston, U.S.A.** | Jan 2024 - Jun 2024
+### Data Science Intern — **Staples Inc.**, Boston (Jan 2024 – Jun 2024)  
+* Reduced robotic mis-picks **25 %** using ensemble clustering models; optimised suction-cup configs to save \$1.2 M.  
+* Streamlined Snowflake queries and Power BI dashboards, cutting processing time **20 %** and lifting throughput **15 %**. :contentReference[oaicite:6]{index=6}  
 
-**Key Achievements & Responsibilities:**
-- As a Data Scientist on the "Robotics & Automation" team, I leveraged advanced data analytics and machine learning to optimize robotic picking processes, 
-
-### Data Analyst  
-**Arthashastra Intelligence**  
-**Hyderabad, India** | Jan 2021 - Jun 2022
-
-**Key Achievements & Responsibilities:**
-- Applied automation, data visualization, and NLP to streamline processes, boost revenue, and achieve significant social and operational improvements.
+### Data Analyst — **Arthashastra Intelligence** (Jan 2021 – Jun 2022)  
+* Automated PDF invoice extraction via AWS Textract (+13 % revenue lift).  
+* Deployed county-wide sanitation dashboards that cut garbage collection-to-lift ratio **25 %**. :contentReference[oaicite:7]{index=7}  
 
 ---
 
-## 🛠️ Technical Skills & Proficiencies
+## 🛠️ Tech Stack
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+**Languages & Stats**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-**Frameworks**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)  
+**ML & NLP**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![HuggingFace](https://img.shields.io/badge/🤗-Transformers-yellow)
 
-**ML Ops & Data Tools**  
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white)  
-![TensorFlow Data Validation (TFDV)](https://img.shields.io/badge/TFDV-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![TensorFlow Extended (TFX)](https://img.shields.io/badge/TFX-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=data-version-control&logoColor=white)  
+**MLOps & Data**  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white) ![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat&logo=data-version-control&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)  
+**Cloud / DevOps**  
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white) ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat&logo=googlecloud&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) 
 
-**Tools**  
-![LangChain](https://img.shields.io/badge/LangChain-00A6C0?style=flat&logo=python&logoColor=white)  
-![CrewAI](https://img.shields.io/badge/CrewAI-FF8C00?style=flat&logo=python&logoColor=white)
+**LLM & Agent Frameworks**  
+![LangChain](https://img.shields.io/badge/LangChain-00A6C0?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-purple?style=flat&logo=python&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-orange?style=flat&logo=python&logoColor=white)
+
+---
+
+## 🌟 Featured Projects
+| Project | TL;DR |
+| --- | --- |
+| **Content Assistant** | Merges Google Analytics + YouTube + news feeds to guide creators with data-driven insights. |
+| **Personalized Gmail** | Neo4j + vector search; 90 % faster email discovery, –30 % API cost, +18 % recall. |
+| **Make-My-Trip AI Planner** | Multi-agent itinerary builder (Langsmith / CrewAI) hitting sub-2 s latency SLA on 1 K plans. |
+| **Celestial Object Classifier** | End-to-end MLflow-tracked TensorFlow pipeline, fully reproducible with DVC & Docker. |
+| **Animal Extinction Prediction** | Balanced imbalanced IUCN data, achieving 85 % accuracy (ROC-AUC 0.89). |
+
+_Details & notebooks in the `/projects` directory._ :contentReference[oaicite:8]{index=8}
+
+---
+
+## 📫 Let’s Talk
+➡ **Email:** jangili.r@northeastern.edu  
+
+
+I’m always up for chatting about AI agents, RAG systems, or any collaboration that puts data to good use. Feel free to reach out!

@@ -33,7 +33,7 @@ I'm passionate about tackling real-world challenges with data-driven solutions, 
 **Key Achievements & Responsibilities:**
 - As a Data Scientist on the "Robotics & Automation" team, I leveraged advanced data analytics and machine learning to optimize robotic picking processes, 
 
-### Data Analyst Intern 
+### Data Analyst  
 **Arthashastra Intelligence**  
 **Hyderabad, India** | Jan 2021 - Jun 2022
 

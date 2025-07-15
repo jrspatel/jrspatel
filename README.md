@@ -57,16 +57,40 @@ My recent work ranges from optimizing robotic pick systems at Staples to buildin
 
 ---
 
+
 ## 🌟 Featured Projects
+
+### 🤖 LangGraph Workflows
 | Project | TL;DR |
 | --- | --- |
-| **Content Assistant** | Merges Google Analytics + YouTube + news feeds to guide creators with data-driven insights. |
-| **Personalized Gmail** | Neo4j + vector search; 90 % faster email discovery, –30 % API cost, +18 % recall. |
-| **Make-My-Trip AI Planner** | Multi-agent itinerary builder (Langsmith / CrewAI) hitting sub-2 s latency SLA on 1 K plans. |
-| **Celestial Object Classifier** | End-to-end MLflow-tracked TensorFlow pipeline, fully reproducible with DVC & Docker. |
-| **Animal Extinction Prediction** | Balanced imbalanced IUCN data, achieving 85 % accuracy (ROC-AUC 0.89). |
+| **Meeting Notes Assistant** | Automates meeting transcript parsing and creates concise, actionable summaries using LLMs and HITL review—all orchestrated in LangGraph. |
+| **Peer Code Reviewer** | Context enrichment + LLM-based code review, with optional human feedback and full traceability; archives every review step. |
+| **Bloggen – News-to-Blog Pipeline** | Aggregates trending news with Tavily, summarizes with LLMs, and auto-generates blog drafts—end-to-end workflow in LangGraph. |
 
-_Details & notebooks in the `/projects` directory._ :contentReference[oaicite:8]{index=8}
+---
+
+### 🔎 RAG Applications (Retrieval-Augmented Generation)
+| Project | TL;DR |
+| --- | --- |
+| **Personalized Gmail** | Neo4j graph + vector search for ultra-fast, accurate email discovery; –30% API cost, +18% recall, 90% faster insights. |
+| **Content Assistant** | Combines Google Analytics, YouTube, and news feeds; surfaces data-driven insights for creators in real time. |
+
+---
+
+### 🧑‍🤝‍🧑 Agent/Orchestrator Architectures
+| Project | TL;DR |
+| --- | --- |
+| **Make-My-Trip AI Planner** | Multi-agent itinerary builder (Langsmith/CrewAI); delivers instant, tailored travel plans with sub-2s latency at scale. |
+
+---
+
+### 📊 Machine Learning & Classical ML Pipelines
+| Project | TL;DR |
+| --- | --- |
+| **Celestial Object Classifier** | MLflow-tracked, Dockerized TensorFlow pipeline; fully reproducible ML workflow, versioned with DVC. |
+| **Animal Extinction Prediction** | Balanced IUCN dataset, advanced feature engineering, 85% accuracy (ROC-AUC 0.89) on rare species prediction. |
+
+
 
 ---
 
